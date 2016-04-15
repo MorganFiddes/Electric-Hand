@@ -5,26 +5,45 @@ Morgan Fiddes-Waldon
 
 Bill of Materials:
 -3 part 3D printed plastic enclosure 
+
 -12 black momentary push buttons with washers
+
 -1 arduino uno 
+
 -1 escudo dos 
+
 -1 3V inverter 
+
 -3 white electroluminescent panels 
--3 aqua electroluminescent panels 
+
+-3 aqua electroluminescent panels
+
 -2 10Ohm resistors 
+
 -1 Solderless Breadboard- 400 contacts
+
 -1 predrilled single-sided circuitboard 
+
 -1 5VDC AC/DC power adapter 
+
 -2 petG molded plastic inserts 
+
 -adhesive
 
 Construction: 
 (preparation) 
+
 -upload code to arduino uno
+
 -3D print 3 STL files, white filament 
+
 -solder 2 wires on each push button, shrink wrap and screw into both STL components (2/3) 
+
 -solder 3 sets of headers on escudo dos shield and connect to arduino uno
--re-solder all 6 electroluminescent panels to extend length- 3 should be longer than the other three to accomodate distance to separate panel.
+
+-re-solder all 6 electroluminescent panels to extend length- 3 should be longer than the other three to accomodate distance to
+separate panel.
+
 1. 
 -solider push buttons from one panel to predrilled single-sided circuit board : one wire from the button is secured in one connecting path, the other in a separate one.
 -attach one connecting wire to each side of the circuit board, connecting the two sides of the momentary pushbuttons
